@@ -1,0 +1,9 @@
+	body#bod {
+		color           : #000000;
+		background-color: #FFF9F9;
+	}
+
+	p#par1 {
+		font-weight: bold;
+		font-size  : 34px;
+	}
